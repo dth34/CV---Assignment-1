@@ -1,0 +1,15 @@
+-The processing time for one image: Varies slightly, but around 1 ms
+
+-The processing time with the bright spot detection: Around 100 ms
+
+-The processing time is identical whether the image is displayed or not.
+
+-The processing time with the loop method is similar, but varies more: Around 90 ms
+
+-By moving my hand in front of the camera I can see a delay of roughly 1/10 of a second, which is coherent with the results above.
+
+-Did not manage to get the live stream running. 
+
+---
+Daði Þór Þjóðólfsson
+23. nóv 2021
